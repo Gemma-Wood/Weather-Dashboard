@@ -23,7 +23,7 @@ Deployed: https://gemma-wood.github.io/Weather-Dashboard/
 
 ## Project Screenshot
 
-
+<img width="1701" alt="Screenshot 2024-01-16 at 22 47 46" src="https://github.com/Gemma-Wood/Weather-Dashboard/assets/150028191/62bda377-59b1-4fe6-85ad-80b93f3001ce">
 
 ## License
 
