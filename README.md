@@ -1,6 +1,6 @@
 # Weather-Dashboard
 
-Create an app that allows users to see the current weather forcast, including a five-day forecast for cities of their choosing.
+Create an app that allows users to see the current weather, including a five-day forecast for cities of their choosing.
 
 ## Description
 
